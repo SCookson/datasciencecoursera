@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursework for Data Scientist Toolbox Coursera module
+Coursework for Data Scientist Toolbox Coursera module...
